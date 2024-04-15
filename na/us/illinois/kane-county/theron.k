@@ -1,0 +1,11 @@
+{
+    "cjdns11.kane-il.us:2578":{
+        "contact":"dnt@wd.kane-il.us",
+        "mastodon":"https://taxes.theron.kane-il.us",
+        "gpg":"61223E94EEE4FFFF0E152667C24F24EBFD44D619",
+        "login":"default-login",
+        "password":"1nf4wlcbn8vd3qck6d97lt7jp5l4kdy",
+        "peerName":"TheRON",
+        "publicKey":"czwjrzu905hm4h1vz919mzqcq8m2b9whwcb2lm64ymcywxnp26u0.k"
+    }
+}
